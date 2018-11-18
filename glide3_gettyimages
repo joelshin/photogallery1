@@ -105,24 +105,5 @@
 		"large": "http://www.gettyimagesgallery.com/Images/Thumbnails/1517/151777.jpg"
 	},
 	"timestamp": "December 24, 2015"
-},
-{
-	"name": "All Mine",
-	"url": {
-		"small": "http://www.gettyimagesgallery.com/Images/Thumbnails/1338/133858.jpg",
-		"medium": "http://www.gettyimagesgallery.com/Images/Thumbnails/1338/133859.jpg",
-		"large": "http://www.gettyimagesgallery.com/Images/Thumbnails/1338/133859.jpg"
-	},
-	"timestamp": "April 15, 2016"
-},
-{
-	"name": "Alpine Skiing",
-	"url": {
-		"small": "http://www.gettyimagesgallery.com/Images/Thumbnails/1480/148046.jpg",
-		"medium": "http://www.gettyimagesgallery.com/Images/Thumbnails/1480/148047.jpg",
-		"large": "http://www.gettyimagesgallery.com/Images/Thumbnails/1480/148047.jpg"
-	},
-	"timestamp": "May 27, 2016"
-},
-
+}
 ]
