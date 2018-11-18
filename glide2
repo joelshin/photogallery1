@@ -35,15 +35,6 @@
 	"timestamp": "July 29, 2016"
 },
 {
-	"name": "Suicide Squad",
-	"url": {
-		"small": "https://api.androidhive.info/images/glide/small/squad.jpg",
-		"medium": "https://api.androidhive.info/images/glide/medium/squad.jpg",
-		"large": "https://api.androidhive.info/images/glide/large/squad.jpg"
-	},
-	"timestamp": "August 5, 2016"
-},
-{
 	"name": "Doctor Strange",
 	"url": {
 		"small": "https://api.androidhive.info/images/glide/small/doctor.jpg",
