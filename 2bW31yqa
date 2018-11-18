@@ -1,0 +1,29 @@
+{
+	students:[
+		{
+			firstname: "Richard",
+			lastname: "Levi",
+			age: "24"
+		},
+		{
+			firstname: "Joana",
+			lastname: "Daniela",
+			age: "25"
+		},
+		{
+			firstname: "Paula",
+			lastname: "Johanna",
+			age: "22"
+		},
+		{
+			firstname: "Therese",
+			lastname: "Boje",
+			age: "23"
+		},
+		{
+			firstname: "Jenny",
+			lastname: "Jones",
+			age: "25"
+		}
+	]
+}
