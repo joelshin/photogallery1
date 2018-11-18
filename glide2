@@ -96,4 +96,32 @@
 		"large": "https://api.androidhive.info/images/glide/large/xmen.jpg"
 	},
 	"timestamp": "May 27, 2016"
-}]
+},
+{
+	"name": "Ip Man 3",
+	"url": {
+		"small": "https://api.androidhive.info/images/glide/small/ipman3.jpg",
+		"medium": "https://api.androidhive.info/images/glide/medium/ipman3.jpg",
+		"large": "https://api.androidhive.info/images/glide/large/ipman3.jpg"
+	},
+	"timestamp": "December 24, 2015"
+},
+{
+	"name": "The Jungle Book",
+	"url": {
+		"small": "https://api.androidhive.info/images/glide/small/book.jpg",
+		"medium": "https://api.androidhive.info/images/glide/medium/book.jpg",
+		"large": "https://api.androidhive.info/images/glide/large/book.jpg"
+	},
+	"timestamp": "April 15, 2016"
+},
+{
+	"name": "X-Men: Apocalypse",
+	"url": {
+		"small": "https://api.androidhive.info/images/glide/small/xmen.jpg",
+		"medium": "https://api.androidhive.info/images/glide/medium/xmen.jpg",
+		"large": "https://api.androidhive.info/images/glide/large/xmen.jpg"
+	},
+	"timestamp": "May 27, 2016"
+},
+]
